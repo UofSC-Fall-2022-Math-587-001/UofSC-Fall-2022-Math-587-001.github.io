@@ -145,7 +145,7 @@
   },"24": {
     "doc": "Schedule",
     "title": "Diffie-Hellman key exchange and ElGamal public key cryptosystem",
-    "content": "Sep 16 Symmetric and asymmetric ciphers Pre-reading Section 1.7 Sep 19 Diffie-Hellman key exchange Pre-reading Sections 2.1 2.3 HW 4 due Sep 21 ElGamal public key cryptosystem Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep Algorithm Pre-reading Section 2.7 Sep 26 Solving congruences with composite moduli Pre-reading Section 2.8 HW 5 due Sep 28 Pohlig-Hellman Algorithm Pre-reading Section 2.9 ",
+    "content": "Sep 16 Symmetric and asymmetric ciphers Pre-reading Section 1.7 Sep 19 Diffie-Hellman key exchange Pre-reading Sections 2.1 2.3 HW 4 due Sep 21 ElGamal public key cryptosystem Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep Algorithm Pre-reading Section 2.7 Sep 26 Chinese Remainder Theorem Pre-reading Section 2.8 HW 5 due Sep 28 Pohlig-Hellman Algorithm Pre-reading Section 2.9 ",
     "url": "https://587.f22.matthewrobertballard.com/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem",
     "relUrl": "/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem"
   },"25": {
