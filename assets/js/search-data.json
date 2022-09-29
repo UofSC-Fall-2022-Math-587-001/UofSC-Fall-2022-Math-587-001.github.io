@@ -169,13 +169,13 @@
   },"28": {
     "doc": "Schedule",
     "title": "Diffie-Hellman key exchange and ElGamal public key cryptosystem",
-    "content": "Sep 16 Symmetric and asymmetric ciphers Pre-reading Section 1.7 Sep 19 Diffie-Hellman key exchange Pre-reading Sections 2.1 2.3 HW 4 due Sep 21 ElGamal public key cryptosystem Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep algorithm Pre-reading Section 2.7 Sep 26 Chinese remainder theorem Pre-reading Section 2.8 HW 5 due Sep 28 Pohlig-Hellman algorithm Pre-reading Section 2.9 ",
+    "content": "Sep 16 Symmetric and asymmetric ciphers Pre-reading Section 1.7 Sep 19 Diffie-Hellman key exchange Pre-reading Sections 2.1 2.3 HW 4 due Sep 21 Elgamal public key cryptosystem Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep algorithm Pre-reading Section 2.7 Sep 26 Chinese remainder theorem Pre-reading Section 2.8 HW 5 due Sep 28 Pohlig-Hellman algorithm Pre-reading Section 2.9 ",
     "url": "https://587.f22.matthewrobertballard.com/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem",
     "relUrl": "/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem"
   },"29": {
     "doc": "Schedule",
     "title": "RSA and questions in computational number theory",
-    "content": "Sep 30 Euler’s formula and roots modulo a product of two primes Pre-reading Section 3.1 Oct 3 RSA public key cryptosystem Pre-reading Section 3.2 HW 6 due Oct 5 Finding large primes Pre-reading Section 3.4 Oct 7 Lots of primes (probably) Pre-reading Sections 3.4.1, 3.4.2 Oct 10 Pollard’s $p-1$ factorization Pre-reading Section 3.5 HW 7 due Oct 12 Factorizations using differences of squares Pre-reading Section 3.6 Oct 17 Smooth numbers and the quadratic sieve Pre-reading Sections 3.7.1, 3.7.2 HW 8 due Oct 19 The number field sieve Pre-reading Section 3.7.3 Oct 21 The index calculus method Pre-reading Section 3.8 ",
+    "content": "Oct 3 Euler’s formula and roots modulo a product of two primes Pre-reading Section 3.1 Oct 5 RSA public key cryptosystem Pre-reading Section 3.2 HW 6 due Oct 7 Finding large primes Pre-reading Section 3.4 Oct 10 Lots of primes (probably) Pre-reading Sections 3.4.1, 3.4.2 Oct 12 Pollard’s $p-1$ factorization Pre-reading Section 3.5 HW 7 due Oct 17 Factorizations using differences of squares Pre-reading Section 3.6 Oct 19 Smooth numbers and the quadratic sieve Pre-reading Sections 3.7.1, 3.7.2 HW 8 due Oct 21 The number field sieve Pre-reading Section 3.7.3 Oct 24 The index calculus method Pre-reading Section 3.8 ",
     "url": "https://587.f22.matthewrobertballard.com/calendar/#rsa-and-questions-in-computational-number-theory",
     "relUrl": "/calendar/#rsa-and-questions-in-computational-number-theory"
   },"30": {
